@@ -26,15 +26,15 @@ Here are a few projects I'm currently working on.
 > A project management and budgeting application designed to help construction companies keep track of their finances and project timelines.
 
 * **Tech Stack:** `[Bun.js]` `[React]` `[TypeScript]` `[Hono]` `[SurrealDB]` `[BetterAuth]` `[TailwindCSS]` `[TanstackQuery]`
-<!-- * **(Optional) Repo Link:** `[Link to GitHub Repo]`
-* **(Optional) Screenshot:** `![WIPIT Preview](link_to_your_screenshot.png)` -->
+<!-- TODO add screenshot in assets folder
+* **Screenshot:** `![WIPIT Preview](link_to_screenshot.png)` -->
 
 ### 2. [Piling Data Network](https://pdn.lmncube.com)
 > A cloud data storage application that allows users in construction to store, retrieve, signoff and audit Piling Data.
 
 * **Tech Stack:** `[Bun.js]` `[React]` `[TypeScript]` `[Hono]` `[SurrealDB]` `[BetterAuth]` `[TailwindCSS]` `[TanstackQuery]`
-<!-- * **(Optional) Repo Link:** `[Link to GitHub Repo]`
-* **(Optional) Screenshot:** `![PDN Preview](link_to_your_screenshot.png)` -->
+<!-- TODO add screenshot in assets folder
+* ** Screenshot:** `![PDN Preview](link_to_screenshot.png)` -->
 
 ---
 
@@ -54,8 +54,6 @@ Docker | GitHub Actions | CI/CD | Nginx | PM2
 
 ### Databases
 Postgres | SurrealDB
-
-<!-- *(**Pro-tip:** You can replace this text list with visual icons using [devicon.dev](https://devicon.dev/))* -->
 
 <!-- ---
 
