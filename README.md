@@ -12,9 +12,9 @@
 
 # Hi, I'm Michael 👋
 
-I'm a Full-Stack Developer passionate about building efficient and user-friendly digital experiences. I thrive on solving complex problems and love diving into new technologies, from modern frontend frameworks to scalable backend systems.
+I'm a Full-Stack Developer passionate about building efficient and user-friendly digital experiences. I thrive on solving complex problems and love diving into new technologies, from modern frontend frameworks to scalable backend systems. 
 
-* Currently open to new opportunities / seeking a role in React, Node.js/Bun.js, Android development or Angular.
+*Currently open to new opportunities / seeking a role in React, Node.js/Bun.js, Android development or Angular.*
 
 ---
 
@@ -25,14 +25,14 @@ Here are a few projects I'm currently working on.
 ### 1. [WIPIT](https://wipit.lmncube.com)
 > A project management and budgeting application designed to help construction companies keep track of their finances and project timelines.
 
-* **Tech Stack:** `[Bun.js]` `[React]` `[TypeScript]` `[Hono]` `[SurrealDB]`
+* **Tech Stack:** `[Bun.js]` `[React]` `[TypeScript]` `[Hono]` `[SurrealDB]` `[BetterAuth]` `[TailwindCSS]` `[TanstackQuery]`
 <!-- * **(Optional) Repo Link:** `[Link to GitHub Repo]`
 * **(Optional) Screenshot:** `![WIPIT Preview](link_to_your_screenshot.png)` -->
 
 ### 2. [Piling Data Network](https://pdn.lmncube.com)
 > A cloud data storage application that allows users in construction to store, retrieve, signoff and audit Piling Data.
 
-* **Tech Stack:** `[Bun.js]` `[TypeScript]` `[SurrealDB]` `[React]` 
+* **Tech Stack:** `[Bun.js]` `[React]` `[TypeScript]` `[Hono]` `[SurrealDB]` `[BetterAuth]` `[TailwindCSS]` `[TanstackQuery]`
 <!-- * **(Optional) Repo Link:** `[Link to GitHub Repo]`
 * **(Optional) Screenshot:** `![PDN Preview](link_to_your_screenshot.png)` -->
 
@@ -41,7 +41,7 @@ Here are a few projects I'm currently working on.
 ## 🔧 My Skills & Tools
 
 ### Frontend
-React | TypeScript | JavaScript | Angular
+React | TypeScript | JavaScript | Angular | TailwindCSS | TanstackQuery
 
 ### Backend
 Node.js | Bun.js | Hono
