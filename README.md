@@ -34,7 +34,7 @@ Here are a few projects I'm currently working on.
 
 * **Tech Stack:** `[Bun.js]` `[React]` `[TypeScript]` `[Hono]` `[SurrealDB]` `[BetterAuth]` `[TailwindCSS]` `[TanstackQuery]`
 
-<img alt="Piling Data Network" src="https://pub-5ac4ca69773848daadfa007451980b94.r2.dev/og-image.jpg" width="300px">
+<img alt="Piling Data Network" src="https://pub-5ac4ca69773848daadfa007451980b94.r2.dev/og-image.jpg" width="640px">
 
 ---
 
