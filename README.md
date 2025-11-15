@@ -33,8 +33,8 @@ Here are a few projects I'm currently working on.
 > A cloud data storage application that allows users in construction to store, retrieve, signoff and audit Piling Data.
 
 * **Tech Stack:** `[Bun.js]` `[React]` `[TypeScript]` `[Hono]` `[SurrealDB]` `[BetterAuth]` `[TailwindCSS]` `[TanstackQuery]`
-<!-- TODO add screenshot in assets folder
-* ** Screenshot:** `![PDN Preview](link_to_screenshot.png)` -->
+
+<img alt="Piling Data Network" src="https://pub-5ac4ca69773848daadfa007451980b94.r2.dev/og-image.jpg" width="300px">
 
 ---
 
