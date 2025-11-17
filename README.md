@@ -25,16 +25,14 @@ Here are a few projects I'm currently working on.
 ### 1. [WIPIT](https://wipit.lmncube.com)
 > A project management and budgeting application designed to help construction companies keep track of their finances and project timelines.
 
-* **Tech Stack:** `[Bun.js]` `[React]` `[TypeScript]` `[Hono]` `[SurrealDB]` `[BetterAuth]` `[TailwindCSS]` `[TanstackQuery]`
-<!-- TODO add screenshot in assets folder
-* **Screenshot:** `![WIPIT Preview](link_to_screenshot.png)` -->
+* **Tech Stack:** `[Bun.js]` `[React]` `[TypeScript]` `[Hono]` `[SurrealDB]` `[BetterAuth]` `<img alt="Piling Data Network" src="assets/WIPIT.png" width="640px">
 
 ### 2. [Piling Data Network](https://dev.pilingdata.net/)
 > A cloud data storage application that allows users in construction to store, retrieve, signoff and audit Piling Data.
 
 * **Tech Stack:** `[Bun.js]` `[React]` `[TypeScript]` `[Hono]` `[SurrealDB]` `[BetterAuth]` `[TailwindCSS]` `[TanstackQuery]`
 
-<img alt="Piling Data Network" src="https://pub-5ac4ca69773848daadfa007451980b94.r2.dev/og-image.jpg" width="640px">
+<img alt="Piling Data Network" src="assets/PDN.jpg" width="640px">
 
 ---
 
